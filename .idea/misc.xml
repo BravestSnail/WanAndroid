@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ljp-pc/SynchronizeFolder/Android/WanAndroid/app/src/main/res/drawable-v24/default_head_photo.xml" value="0.2" />
+        <entry key="..\:/Users/ljp-pc/SynchronizeFolder/Android/WanAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/ljp-pc/SynchronizeFolder/Android/WanAndroid/app/src/main/res/drawable-v24/ic_me.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/ljp-pc/SynchronizeFolder/Android/WanAndroid/app/src/main/res/drawable-v24/ic_project.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/ljp-pc/SynchronizeFolder/Android/WanAndroid/app/src/main/res/drawable-v24/ic_question.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/ljp-pc/SynchronizeFolder/Android/WanAndroid/app/src/main/res/drawable/ic___.xml" value="0.193" />
+        <entry key="..\:/Users/ljp-pc/SynchronizeFolder/Android/WanAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3723076923076923" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
